@@ -1,1 +1,1 @@
-This template builds the docker image locally, and pushes the image to docker-hub, security best practice is to use arguments and env variables to pass secrets to terraform for build projects.
+This template uses terraform to build the docker image locally, and push the image to docker-hub, security best practice is to use arguments, env variables etc to pass secrets for collaborative projects.
